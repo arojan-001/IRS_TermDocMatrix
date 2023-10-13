@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchEngineWidthReversedIndex", "SearchEngineWidthReversedIndex.csproj", "{7B781A35-836F-437C-A9BC-2D4C8D479FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B781A35-836F-437C-A9BC-2D4C8D479FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B781A35-836F-437C-A9BC-2D4C8D479FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B781A35-836F-437C-A9BC-2D4C8D479FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B781A35-836F-437C-A9BC-2D4C8D479FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3805EE6-F376-4716-9193-655D302E3E25}
+	EndGlobalSection
+EndGlobal
